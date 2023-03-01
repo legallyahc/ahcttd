@@ -1,0 +1,178 @@
+Date,Time Boarded,Line,Name,Direction,Bus,Stop Boarded,Stop Alighted,Time Alighted,Comments,Transfer,Mode
+2022-11-14,11:57,420,Notre-Dame-de-Grace,East,29-148,Sherbrooke / Girouard,De Maisonneuve / Mansfield ,12:19,yoo first 420,F,
+2022-11-15,12:53,144,Av. Des Pins,East,29-064,Dr-Penfield / Côte-des-Neiges,Des Pins / University,12:59,yoo first documented 144 / 5 minutes late,F,
+2022-11-15,15:50,24,Sherbrooke,West,31-056,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,15:55,,F,
+2022-11-15,22:55,15,Sainte-Catherine,West,38-031,Station McGill,Station Guy-Concordia (de Maisonneuve / Guy),23:00,,F,
+2022-11-17,9:48,24,Sherbrooke,East,38-009,Sherbrooke / Côte-des-Neiges,Université McGill,9:55,,F,
+2022-11-18,8:51,144,Av. Des Pins,East,29-002,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,,,F,
+2022-11-18,,24,Sherbrooke,West,38-092,Sherbrooke / University,Sherbrooke / Côte-des-Neiges,,,F,
+2022-11-18,17:04,24,Sherbrooke,East,38-098,Sherbrooke / Côte-des-Neiges,Université McGill,17:10,,F,
+2022-11-19,13:52,55,Saint-Laurent,North,29-041,Station Saint-Laurent,Saint-Laurent / Duluth,14:01,,F,
+2022-11-19,17:10,165,Côte-des-Neiges,North,33-845,Station Guy-Concordia East,Côte-des-Neiges / Summerhill,17:12,,F,
+2022-11-19,19:01,66,The Boulevard,West,29-040,Côte-des-Neiges / Sherbrooke,Côte-Saint-Luc / Ellerdale,19:17,to 51,T,
+2022-11-19,19:19,51,Édouard-Montpetit,West,41-055,Fielding / Côte-Saint-Luc,West Broadway / Sherbrooke,19:28,from 66,T,
+2022-11-19,21:43,105,Sherbrooke,East,37-080,Université Concordia / Campus Loyola,Station Vendôme,21:56,,F,
+2022-11-20,1:13,144,Av. Des Pins,West,29-042,des Pins / Parc,des Pins / Côte-des-Neiges,1:19,,F,
+2022-11-20,18:36,144,Av. Des Pins,West,30-219,des Pins / Peel,des Pins / Côte-des-Neiges,18:40,,F,
+2022-11-22,14:37,24,Sherbrooke,West,30-040,Sherbrooke / Peel,Sherbrooke / Côte-des-Neiges,14:41,,F,
+2022-11-23,13:24,144,Av. des Pins,East,31-110,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,13:29,,F,
+2022-11-23,16:14,165,Côte-des-Neiges,North,29-819,Station Guy-Concordia East,Côte-des-Neiges / Summerhill,16:16,,F,
+2022-11-23,18:25,24,Sherbrooke,East,31-181,Sherbrooke / Côte-des-Neiges,Sherbrooke / Saint-Laurent ,18:39,Transfer to 55 ,T,
+2022-11-23,18:40,55,Saint-Laurent,North,31-009,Saint-Laurent / Sherbrooke,Saint-Laurent / Duluth,,Transfer from 24 (had to jaywalk Saint-Laurent for it),T,
+2022-11-24,11:16,55,Saint-Laurent,South,29-024,Saint-Urban / Duluth,Saint-Urban / Sherbrooke,,"Stopped farther away than usually from sherb, detour",F,
+2022-11-24,14:34,24,Sherbrooke,West,38-035,Sherbrooke / University,Sherbrooke / Côte-des-Neiges,14:41,,F,
+2022-11-26,22:48,144,Av. des Pins,East,31-026,Dr-Penfield / Côte-des-Neiges,des Pins / St-Dominique,23:02,,F,
+2022-11-27,0:19,24,Sherbrooke,West,38-008,Sherbrooke / Saint-Laurent,Sherbrooke / Côte-des-Neiges,0:27,,F,
+2022-11-28,17:17,24,Sherbrooke,West,38-087,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,17:22,,F,
+2022-11-29,9:46,24,Sherbrooke,East,38-028,Sherbrooke / Côte-des-Neiges,Université McGill,9:54,Traffic and construction ,F,
+2022-11-30,14:07,24,Sherbrooke,East,39-034,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,14:11,,F,
+2022-11-30,17:19,24,Sherbrooke,East,31-229,Sherbrooke / Chomedy,Sherbrooke / Côte-des-Neiges,17:23,,F,
+2022-11-30,19:19,24,Sherbrooke,East,38-089,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,19:24,,F,
+2022-11-30,23:00,165,Côte-des-Neiges,North,31-814,Station Guy-Concordia East,Côte-des-Neiges / Summerhill,23:02,,F,
+2022-12-01,9:47,24,Sherbrooke,East,39-035,Sherbrooke / Côte-des-Neiges,Université McGill,9:53,,F,
+2022-12-01,11:22,80,Parc,North,33-805,Sherbrooke / De Bleury,Monument Sir-George-Étienne-Cartier,11:28,,F,
+2022-12-01,14:53,55,Saint-Laurent,South,31-023,Saint-Urbain / Duluth,Saint-Urbain / Sherbrooke,15:00,Transfer to 24,T,
+2022-12-01,15:01,24,Sherbrooke,West,39-035,Sherbrooke / Saint-Urbain,Sherbrooke / Côte-des-Neiges,15:15,Transfer from 55,T,
+2022-12-05,13:49,144,Av. des Pins,East,31-043,Dr-Penfield / Peel,des Pins / Saint-Denis,14:01,No more Dr-Penfield / McTavish detour!! also more of des Pins open!,F,
+2022-12-05,14:24,24,Sherbrooke,West,31-150,Station Sherbrooke West,Sherbrooke / Redpath,14:41,,F,
+2022-12-06,11:45,105,Sherbrooke,West,37-102,Station Vendôme,Sherbrooke / Oxford,11:51,,F,
+2022-12-06,13:21,24,Sherbrooke,East,38-013,Décarie / Sherbrooke,Sherbrooke / Peel,,,F,
+2022-12-06,18:39,144,Av. des Pins,East,29-041,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,18:42,,F,
+2022-12-07,15:57,24,Sherbrooke,West,38-021,Sherbrooke / Peel,Sherbrooke / Redpath,15:59,,F,
+2022-12-08,17:11,24,Sherbrooke,West,38-024,Sherbrooke / Mansfiele,Sherbrooke / Côte-des-Neiges,17:17,,F,
+2022-12-09,15:14,165,Côte-des-Neiges,North,,Côte-des-Neiges / Summerhill,Station Côte-des-Neiges,15:30,To Blue Line,F,
+2022-12-09,19:20,165,Côte-des-Neiges,North,33-812,Côte-des-Neiges / Summerhill,Station Côte-des-Neiges,19:34,,F,
+2022-12-10,1:49,360,Av. des Pins,West,40-070,des Pins / Parc,des Pins / Côte-des-Neiges,1:55,,F,
+2022-12-11,14:00,144,Av. des Pins,East,30-149,Dr-Penfield / Côte-des-Neiges,des Pins / De l'Hôtel-de-Ville,14:16,"Nonfunctional Opus Reader; Detoured via Sherbrooke instead of Prince-Arthur; Tried to stop @ Sherb / Jeanne-Mance, ignored Sherb / St-Urbain",F,
+2022-12-12,17:57,24,Sherbrooke,West,38-099,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,18:03,,F,
+2022-12-13,13:23,24,Sherbrooke,East,38-086,Sherbrooke / Robert-Bourassa ,Sherbrooke / De l'Hôtel-de-Ville,13:29,,F,
+2022-12-13,22:39,144,Av. des Pins,West,31-041,des Pins / Parc,des Pins / Côte-des-Neiges,22:45,,F,
+2022-12-14,16:39,24,Sherbrooke,West,26-043,Sherbrooke / Peel,Sherbrooke / Côte-des-Neiges,16:44,,F,
+2022-12-14,21:05,144,Av. des Pins,East,29-055,Dr-Penfield / Côte-des-Neiges,des Pins / Parc,21:11,No dash on back ID code,F,
+2022-12-15,0:40,144,Av. des Pins,West,29-055,des Pins / Parc,des Pins / Côte-des-Neiges,0:45,Same as before!,F,
+2022-12-20,13:41,24,Sherbrooke,East,39-019,Sherbrooke / Côte-des-Neiges,Sherbrooke / R.-Bourassa,13:51,,F,
+2022-12-20,15:43,24,Sherbrooke,West,31-237,Sherbrooke / Hutchison,Sherbrooke / Côte-des-Neiges,15:52,,F,
+2022-12-20,18:37,144,Av. des Pins,East,30-157,Dr-Penfield / Côte-des-Neiges,des Pins / Saint-Urbain,18:47,Fully open des Pins!,F,
+2022-12-20,21:06,144,Av. des Pins,West,31-022,des Pins / Saint-Laurent ,des Pins / Côte-des-Neiges,21:14,,F,
+2022-12-23,15:42,144,Av. des Pins,West,31-110,des Pins / Saint-Laurent,des Pins / Côte-des-Neiges,15:49,,F,
+2022-12-26,16:03,129,Côte-Sainte-Catherine,South,30-097,Côte-Sainte-Catherine / Laurier,Bleury / Sainte-Catherine,16:15,,F,
+2022-12-26,17:13,80,Parc,North,31-824,Station Place-des-Arts,Monument Sir-George-Étienne-Cartier,17:21,,F,
+2022-12-26,18:56,144,Av. Des Pins,West,29-027,des Pins / Saint-Laurent,des Pins / Côte-des-Neiges,19:05,No dash on back ID number,F,
+2023-01-03,21:35,144,Av. Des Pins,East,31-017,Dr-Penfield/ Côte-des-Neiges,des Pins / De l'Hôtel-de-Ville,21:42,First of the New Year!,F,
+2023-01-04,0:03,144,Av. Des Pins,West,31-017,des Pins / Saint-Laurent,des Pins / Côte-des-Neiges,0:10,,F,
+2023-01-04,17:18,24,Sherbrooke,West,38-015,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,,,F,
+2023-01-04,22:36,144,Av. Des Pins,East,30-145,Dr-Penfield / Côte-des-Neiges,des Pins / Saint-Urbain,22:42,,F,
+2023-01-06,12:51,24,Sherbrooke,East,38-001,Sherbrooke / Saint-Mathieu,Université McGill,12:56,,F,
+2023-01-06,14:27,24,Sherbrooke,West,31-115,Sherbrooke / Peel,Sherbrooke / Côte-des-Neiges,14:30,,F,
+2023-01-06,20:27,747,YUL Aéroport / Centre-Ville,West,31-005,Station Lionel-Groulx, YUL Aéroport Montréal-Trudeau,20:48,,F,
+2023-01-06,21:15,747,YUL Aéroport / Centre-Ville,East,29-156,YUL Aéroport Montréal-Trudeau,Station Lionel-Groulx,21:42,,F,
+2023-01-07,17:17,55,Saint-Laurent,North,30-205,Saint-Laurent / Sainte-Catherine,Saint-Laurent / Duluth,,,F,
+2023-01-07,18:12,144,Av. Des Pins,West,31-022,des Pins / Saint-Urbain,des Pins / Côte-des-Neiges,18:21,,F,
+2023-01-08,16:14,24,Sherbrooke,East,38-019,Université McGill,Sherbrooke / de Bleury ,,,F,
+2023-01-10,19:28,24,Sherbrooke,East,39-036,Sherbrooke / St-Mathieu,Sherbrooke / Peel,19:32,,F,
+2023-01-10,23:20,15,Sainte-Catherine,West,31-077,de Maisonneuve / Robert-Bourassa,de Maisonneuve / Guy,23:24,,F,
+2023-01-12,11:00,144,Av. des Pins,East,29-029,Dr-Penfield / Côte-des-Neiges,des Pins / de l'Hôtel-de-Ville,11:11,Busy!,F,
+2023-01-13,16:50,55,St-Laurent,South,29-056,St-Urbain / Rachel,Station Place-des-Arts,16:57,,F,
+2023-01-15,1:27,361,Saint-Denis,South,31-010,St-Denis / Laurier,St-Denis / Roy,1:34,to 360,T,
+2023-01-15,1:43,360,Av. des Pins,West,40-234,des Pins / Drolet,des Pins / Côte-des-Neiges,1:53,from 361,T,
+2023-01-16,14:21,24,Sherbrooke,East,31-186,Sherbrooke / Côte-des-Neiges,Université McGill,14:26,,F,
+2023-01-18,11:44,24,Sherbrooke,West,31-162,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,11:50,Bike rack!,F,
+2023-01-19,9:21,24,Sherbrooke,East,26-035,Sherbrooke / Côte-des-Neiges,Rachel / Montgomery,9:52,Old Boi,F,
+2023-01-19,11:08,24,Sherbrooke,West,31-047,Sherbrooke / Hogan,Sherbrooke / Côte-des-Neiges,11:40,,F,
+2023-01-19,12:57,24,Sherbrooke,West,38-020,Sherbrooke / Côte-des-Neiges,Université McGill,13:02,,F,
+2023-01-19,18:39,144,Av. des Pins,East,31-207,Dr-Penfield / Côte-des-Neiges,des Pins / Saint-Laurent,18:49,,F,
+2023-01-19,23:35,144,Av. des Pins,West,31-201,des Pins / Saint-Urbain,des Pins / Côte-des-Neiges,23:42,,F,
+2023-01-21,20:04,165,Côte-des-Neiges,North,33-816,Côte-des-Neiges / Summerhill,Station Côte-des-Neiges,20:17,,F,
+2023-01-21,23:09,55,Saint-Laurent,South,29-026,Station de Castelnau,Saint-Urbain / Rachel,23:24,,F,
+2023-01-22,0:02,144,Av. des Pins,West,31-044,des Pins / Parc,des Pins / Côte-des-Neiges,0:07,,F,
+2023-01-23,9:44,24,Sherbrooke,East,31-169,Sherbrooke / Côte-des-Neiges,Université McGill,9:50,,F,
+2023-01-23,11:33,24,Sherbrooke,West,38-013,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,11:38,,F,
+2023-01-23,18:00,24,Sherbrooke,East,38-034,Sherbrooke / Robert-Bourassa ,Cherrier / Du Parc-La-Fontaine,18:14,,F,
+2023-01-24,15:58,1,Green Line,West,10-499,Station McGill,Station Guy-Concordia,16:00,Start of metro accounting,F,** Note on metro accounting
+2023-01-25,11:36,24,Sherbrooke,West,39-036,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,11:40,,F,"Line number by historical (1 = Green, 2 = Orange, 4 = Yellow, 5 = Blue)"
+2023-01-28,17:20,144,Av. des Pins,West.,29-024,des Pins / Parc,des Pins / Côte-des-Neiges,17:25,,F,Time boarded same as bus
+2023-01-28,21:03,1,Green Line,East,10-534,Station Guy-Concordia,Station St-Laurent,21:10,to 55,T,Car number boarded / ridden at used for ID
+2023-01-28,21:16,55,St-Laurent,North,32-010,Station St-Laurent,St-Laurent / Rachel,21:30,from 1,T,
+2023-01-29,2:37,144,Av. des Pis,West,29-132,des Pins / Parc,des Pins / Côte-des-Neiges,2:41,,F,
+2023-01-29,12:57,24,Sherbrooke,East,38-030,Sherbrooke / Côte-des-Neiges,Sherbrooke / St-Laurent,13:10,,F,
+2023-01-29,14:31,24,Sherbrooke,West,38-032,Sherbrooke / l'Hôtel-de-Ville,Sherbrooke / Côte-des-Neiges,,,F,
+2023-01-29,21:30,144,Av. des Pins,East,32-013,Dr-Penfield / Côte-des-Neiges,des Pins / St-Urbain,21:36,,F,
+2023-01-30,11:33,144,Av. des Pins,West,29-071,des Pins / Parc,des Pins / Côte-des-Neiges,11:41,,F,
+2023-01-31,15:27,24,Sherbrooke,West,31-060,Sherbrooke / Robert-Bourassa,Sherbrooke / Côte-des-Neiges,15:36,,F,
+2023-01-31,23:37,1,Green Line,West,10-561,Station McGill,Station Guy-Concordia,23:40,,F,
+2023-02-01,11:54,24,Sherbrooke,West,31-042,Sherbrooke / Peel,Sherbrooke / Côte-des-Neiges,11:56,,F,
+2023-02-02,15:57,24,Sherbrooke,West,26-029,Sherbrooke / Mansfield ,Sherbrooke / Côte-des-Neiges,16:03,,F,
+2023-02-02,16:47,24,Sherbrooke,East,31-070,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,16:52,,F,
+2023-02-03,15:41,24,Sherbrooke,West,31-232,Sherbrooke / Mansfield ,Sherbrooke / de la Montagne,15:43,Cold advisory,F,
+2023-02-04,11:23,144,Av. Des Pins,East,28-045,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,11:26,Cold advisory,F,
+2023-02-04,17:51,1,Green Line,West,79-582,Station St-Laurent,Station Guy-Concordia,17:56,w/ bike,F,
+2023-02-06,9:45,24,Sherbrooke,East,31-064,Sherbrooke / Côte-des-Neiges,Université McGill,9:50,,F,
+2023-02-06,20:09,24,Sherbrooke,West,39-039,Sherbrooke / Alymer,Sherbrooke / Côte-des-Neiges,20:16,,F,
+2023-02-07,16:04,24,Sherbrooke,West,30-061,Sherbrooke / University,Sherbrooke / Côte-des-Neiges,16:11,,F,
+2023-02-07,20:05,144,Av. des Pins,East,29-017,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,20:08,,F,
+2023-02-07,23:17,24,Sherbrooke,West,38-024,Sherbrooke / Aylmer,Sherbrooke / Côte-des-Neiges,23:22,,F,
+2023-02-08,11:36,24,Sherbrooke,East,39-017,Sherbrooke / Côte-des-Neiges,Université McGill,11:43,,F,
+2023-02-08,17:15,144,Av. des Pins,West,30-181,des Pins / Côte-des-Neiges,Station Atwater,17:24,,F,
+2023-02-08,17:46,24,Sherbrooke,East,38-010,Sherbrooke / Atwater,Sherbrooke / St-Mathieu,17:50,Code VIII on vehicle id,F,
+2023-02-10,21:05,144,Av. des Pins,East,29-003,Dr-Penfield / Côte-des-Neiges,des Pins / L'Hôtel-de-Ville,21:19,Isaac party!,F,
+2023-02-10,22:28,11,Parc-du Mont-Royal,West,41-056,Mont-Royal / de Bulllion,Côte-des-Neiges / Forest Hill,22:40,had a bad time :( to 166,T,
+2023-02-10,22:46,166,Queen Mary,South,37-055,Côte-des-Neiges / Forest Hill,Côte-des-Neiges / Summerhill,22:52,from 11,T,
+2023-02-11,17:03,24,Sherbrooke ,East,38-025,Sherbrooke / Chomedy,Sherbrooke / St-Mathieu,17:05,,F,
+2023-02-11,17:43,144,Av. des Pins,East,maybe 29-014,Dr-Penfield / Côte-des-Neiges,des Pins / Parc,17:49,,F,
+2023-02-11,20:45,144,Av. des Pins,West,29-014,des Pins / Parc,des Pins / Côte-des-Neiges,20:52,,F,
+2023-02-13,18:44,24,Sherbrooke,East,38-015,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,18:47,,F,
+2023-02-13,21:15,24,Sherbrooke,West,39-023,Sherbrooke / Hutchison,Sherbrooke / Côte-des-Neiges,,,F,
+2023-02-14,16:10,1,Green Line,West,10-612,Station Peel,Station Lionel-Groulx,,,F,
+2023-02-14,,1,Green Line,East,78-061,Station Lionel-Groulx,Station Guy-Concordia,17:58,,F,
+2023-02-14,20:36,144,Av. des Pins,East,31-020,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Peel,20:39,,F,
+2023-02-15,12:55,144,Av. des Pins,East,31-011,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Réservoir Mctavish,13:00,,F,
+2023-02-16,1:10,165,Côte-des-Neiges,North,33-805,Station Guy-Concordia,Côte-des-Neiges / Peltrie,1:26,,F,
+2023-02-16,1:46,369,Côte-des-Neiges,South,31-189,Côte-des-Neiges / Peltrie,Côte-des-Neiges / Summerhill,1:57,,F,
+2023-02-16,15:23,24,Sherbrooke,West,39-023,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,15:29,,F,
+2023-02-16,17:19,1,Green Line,West,78-020,Station Guy-Concordia,Station Lionel-Groulx,17:23,,F,
+2023-02-16,18:02,1,Green Line,East,10-699,Station Lionel-Groulx,Station Guy-Concordia,18:06,,F,
+2023-02-19,0:05,144,Av. des Pins,West,29-066,des Pins / Parc,des Pins / Côte-des-Neiges,,No dash,F,
+2023-02-21,10:36,24,Sherbrooke,East,31-084,Sherbrooke / Côte-des-Neiges,Sherbrooke / de Bleury ,10:46,,F,
+2023-02-21,17:41,144,Av. des Pins,East,29-063,des Pins / University,des Pins / Parc,17:44,Ghost ,F,
+2023-02-21,23:09,144,Av. des Pins,West,29-011,des Pins / Parc,des Pins / Côte-des-Neiges,23:14,"Late, no dash",F,
+2023-02-22,16:07,144,Av. des Pins,West,31-019,des Pins / Parc,des Pins / Côte-des-Neiges,16:17,,F,
+2023-02-23,12:27,144,Av. des Pins,East,32-005,Dr-Penfield / Côte-des-Neiges,Dr-Penfield / Réservoir McTavish,12:30,,F,
+2023-02-23,13:45,24,Sherbrooke,West,31-179,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,13:51,Bike rack; geog314 exam canceled due to fire alarm,F,
+2023-02-24,9:22,24,Sherbrooke,East,39-018,Sherbrooke / Côte-des-Neiges,Université McGill,9:29,,F,
+2023-02-24,20:50,24,Sherbrooke,East,39-018,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,20:54,,F,
+2023-02-25,0:08,1,Green Line,West,10-598,Station Peel,Station Guy-Concordia,0:09,fucking cold out! to 165,T,
+2023-02-25,0:12,165,Côte-des-Neiges,North,33-844,Station Guy-Concordia,Côte-des-Neiges / Summerhill,0:15,from 1,T,
+2023-02-25,17:36,1,Green Line,West,10-701,Station Berri-UQAM,Station Guy-Concordia,17:41,with bike,F,
+2023-02-25,21:05,1,Green Line,East,79-687,Station Guy-Concordia,Station Place-des-Arts,21:09,To Claire's party / nuit blanche,F,
+2023-02-25,23:21,1,Green Line,West,79-687,Station St-Laurent,Station Guy-Concordia,23:28,got a lil tattoo at eva b!; to 165,T,
+2023-02-25,23:30,165,Côte-des-Neiges ,North,39-808,Station Guy-Concordia,Côte-des-Neiges / Summerhill,23:36,from 1,T,
+2023-02-26,18:18,TTC_1,Vaughn Metropolitan Centre,South,6012,Lawrence,Bloor,18:31,to TTC_2,T,METRO
+2023-02-26,18:34,TTC_2,Kipling,West,5281,Yonge,Spadina,18:38,from TTC_1; to TTC_510,T,METRO
+2023-02-26,18:39,TTC_510,Spadina,South,4472,Spadina,Spadina / College,18:49,from TTC_2,T,STREETCAR
+2023-02-26,19:43,TTC_506,Carlton,East,4537,College / Beverly,Parliament / Gerrard ,19:59,,F,STREETCAR
+2023-02-26,23:33,TTC_506,Carlton,West,4537,College / Sherbourne ,College / Spadina,23:45,,F,STREETCAR
+2023-02-27,0:24,TTC_2,Kennedy,East,5103,Spadina,Yonge,0:27,to TTC_1,T,METRO
+2023-02-27,0:35,TTC_1,Finch,North,5841,Bloor,Lawrence,0:48,from TTC_2,T,METRO
+2023-02-27,10:36,TTC_1,Vaughn,South,5593,Lawrence,Queen,10:54,to TTC_501,T,METRO
+2023-02-27,11:03,TTC_501,Queen,East,4538,Queen / Victoria,Queen / Parliament,11:08,from TTC_1,T,STREETCAR
+2023-02-27,12:18,TTC_501,Queen,West,4555,Queen / Parliament,Queen / Soho,12:35,,F,STREETCAR
+2023-02-27,13:36,TTC_510,Spadina,North,4459,Spadina / Front,Spadina / Queen,13:41,to TTC_501,T,STREETCAR
+2023-02-27,13:46,TTC_501,Queen,East,4515,Queen / Spadina,Queen / Yonge,13:56,from TTC_510,T,STREETCAR
+2023-02-27,14:35,TTC_1,Vaughn,South,5966,Yonge,Union,14:39,,F,METRO
+2023-02-27,15:51,TTC_509,Harbourfront,West,4532,Queens Quay / Rees,Bathurst / Queens Quay,15:56,,F,STREETCAR
+2023-02-27,,,Toronto Island Ferry,,,,,,,F,FERRY
+2023-02-27,16:48,TTC_511,Bathurst,North,4511,Fleet / Bathurst,Bathurst / Carr,16:57,,F,STREETCAR
+2023-02-27,17:23,TTC_510,Spadina,North,4547,Spadina / Sullivan,Spadina,17:39,to TTC_2,T,STREETCAR
+2023-02-27,17:42,TTC_2,Kipling,West,5329,Spadina,Bathurst,17:43,from TTC_510,T,METRO
+2023-02-27,20:42,TTC_2,Kennedy,East,5238,Bathurst,Yonge,20:47,to TTC_1,T,METRO
+2023-02-27,20:49,TTC_1,Finch,North,6061,Bloor ,Lawrence,21:02,from TTC_2,T,METRO
+2023-02-28,9:32,TTC_1,Finch,North,5641,Lawrence,Sheppard-Yonge,9:38,to TTC_3,T,METRO
+2023-02-28,9:43,TTC_3,Don Mills,East,6181,Sheppard-Yonge,Don Mills,9:51,"from TTC_1, to TTC_3",T,METRO
+2023-02-28,9:57,TTC_985,Sheppard East Express,East,9064,Don Mills Station,Scarborough Centre Station,10:23,"from TTC_3, to TTC_4",T,BUS
+2023-02-28,10:26,TTC_4,McCowan,East,3021,Scarborough Centre,McCowan,10:27,"from TTC_985, to TTC_4",T,LIGHT_RAIL
+2023-02-28,10:29,TTC_4,Kennedy,West,3004,McCowan,Kennedy,10:41,"from TTC_4, to GO_",T,LIGHT_RAIL
+2023-02-28,11:10,GO_ST,Stouffville,Southwest,2789,Kennedy,Union,11:27,"from TTC_4, to GO_KT",T,COMMUTER_RAIL
+2023-02-28,11:34,GO_KT,Mount Pleasant,Northwest,4110,Union,Bloor,11:43,"from GO_ST, to TTC_2",T,COMMUTER_RAIL
+2023-02-28,11:59,TTC_2,Kennedy,East,5230,Dundas West,Barthust,12:06,from GO_KT; horrible connection signage / no integration between stations,T,METRO
+2023-02-28,13:40,TTC_511,Bathurst,South,4547,Bathurst Station,Bathurst / Queen,13:51,,F,STREETCAR
+2023-02-28,15:29,TTC_1,Finch,South,5596,Osgode,Lawrence,15:53,,F,METRO
