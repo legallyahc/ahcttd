@@ -1,41 +1,24 @@
+# Packages for frequency analysis
 library(tidyverse)
 library(lubridate)
 
+# References for self:
+  # Color functions
+  RColorBrewer::display.brewer.all()
 
-bus <- read_csv("Alice Bus Tracking - 2022.csv")
-bus <- bus %>% 
-  mutate(
-    duration = `Time Alighted` - `Time Boarded`
-  )
+  # Testing weekday function
+  wday(toronto$DateTimeBoarded, label = T, abbr = F)
 
-bus %>% 
-  ggplot(aes(x = Date)) +
-  geom_bar()
+  # Mode array
+  modes <- toronto$Mode %>%
+    unique()
+  modes
 
-meandur <- mean(as.numeric(bus$duration), na.rm = T)
-
-bus %>% 
-  ggplot(aes(x = Date, y = duration)) +
-  geom_col() +
-  geom_hline(yintercept = meandur) +
-  scale
-
-bus %>% 
-  filter(Date == dmy("27-2-2023")) %>% 
-  select(duration)
-
-toronto <- bus %>% 
-  filter(Date >= dmy("26-2-2023")) %>% 
-  mutate(
-    DateTimeBoarded = make_datetime(year = year(Date), month = month(Date), day = day(Date), hour(`Time Boarded`), minute(`Time Boarded`)),
-    DateTimeAlighted = make_datetime(year = year(Date), month = month(Date), day = day(Date), hour(`Time Alighted`), minute(`Time Alighted`)),
-  )
-
-toronto %>% 
-  select(DateTimeAlighted)
+  # Testing string splitting of line information, kinda fucky for the ferry
+  str_split_i(toronto$Line, "_", 2)
 
 # Toronto Trips by time
-toronto %>% 
+toronto %>%
   ggplot(aes(x = round_date(DateTimeBoarded, unit = "hour"), fill = wday(DateTimeBoarded, label = T, abbr = F))) +
   geom_bar()+
   labs(
@@ -49,7 +32,7 @@ toronto %>%
   scale_fill_brewer(palette = "Accent")
 
 # Modal Trips
-toronto %>% 
+toronto %>%
   ggplot(aes(x = wday(Date, label = T, abbr = F), fill = Mode)) +
   geom_bar() +
   labs(
@@ -61,10 +44,8 @@ toronto %>%
   theme_minimal() +
   scale_fill_brewer(palette = "Spectral", direction = -1, labels = c("Bus", "Commuter Rail", "Ferry", "Light Rail", "Subway", "Streetcar"))
 
-str_split_i(toronto$Line, "_", 2)
-
 # Trips by line
-toronto %>% 
+toronto %>%
   ggplot(aes(x = str_split_i(Line, "_", 2), fill = Mode)) +
   geom_bar() +
   labs(
@@ -76,11 +57,8 @@ toronto %>%
   theme_minimal() +
   scale_fill_brewer(palette = "Spectral", direction = -1, labels = c("Bus", "Commuter Rail", "Ferry", "Light Rail", "Subway", "Streetcar"))
 
-# Testing weekday function
-wday(toronto$DateTimeBoarded, label = T, abbr = F)
 
-# Color functions
-RColorBrewer::display.brewer.all()
 
-toronto$Mode %>% 
-  unique()
+
+
+
