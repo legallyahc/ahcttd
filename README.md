@@ -2,7 +2,7 @@
 AHC Toronto Transit Data (AHCTTD) 
 By Alice H Clauss
 Data collected 2023-02-26:2023-02-28 
-Data last modified 2023-03-01 
+Data last modified 2023-03-08
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 	If you use this, you must attribute it to the original author, share your further work under a similar license, and it can only be used for non-commercial activities. 
@@ -27,7 +27,9 @@ Why?
 How?
 	Manual data entry on each trip.
 
-Variable info: 
+The data can be found in `ahcttd.csv`.
+
+Variable info (`ahcttd.csv`): 
 `Date` <date> = ISO Date format when the trip began.
 `Time Boarded` <time> = 24hr time (Eastern). No seconds. 
 `Line` <chr> = Agency prefix (TTC = Toronto Transit Commission, GO = GO Transit) _ Line Number (For TTC) OR Line Abbreviation (For GO).

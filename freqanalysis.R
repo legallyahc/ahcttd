@@ -17,6 +17,12 @@ library(lubridate)
   # Testing string splitting of line information, kinda fucky for the ferry
   str_split_i(toronto$Line, "_", 2)
 
+# Import Toronto data
+toronto <- read_csv("ahcttd.csv") %>%
+  mutate(
+    duration = as.duration(duration)
+  )
+
 # Toronto Trips by time
 toronto %>%
   ggplot(aes(x = round_date(DateTimeBoarded, unit = "hour"), fill = wday(DateTimeBoarded, label = T, abbr = F))) +
