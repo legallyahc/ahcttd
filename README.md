@@ -2,11 +2,8 @@
 AHC Toronto Transit Data (AHCTTD)  
 By Alice H Clauss  
 Data collected 2023-02-26:2023-02-28  
-Data last modified 2023-03-08  
+Data last modified 2023-12-26
 
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
-  	If you use this, you must attribute it to the original author, share your further work under a similar license, and it can only be used for non-commercial activities.  
-  	https://creativecommons.org/licenses/by-nc-sa/4.0/  
 Data was manipulated in R 4.2 with packages Tidyverse and Lubridate  
 
 What?  
